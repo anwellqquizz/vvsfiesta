@@ -1,3 +1,4 @@
+import java.util.Random;
 public class ebanaya {
     public static void main(String[] args) {
         int[] books = new int [100];
